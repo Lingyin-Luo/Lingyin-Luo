@@ -2,7 +2,7 @@
 
 My name is Lingyin :)
 
-I speak German, Chinese, English and learning Hebrew and Japanese recently.
+I speak German, Chinese, English and am learning Hebrew and Japanese recently.
 
 - 🔭 I’m interested in logic, functional programming, theorem proving and software verification.
 - 🌱 I’m currently a bachelor student majored in computer science.
